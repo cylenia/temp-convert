@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "temp_convert"
+name = "temp-convert"
 version = "0.1.0"
