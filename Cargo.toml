@@ -1,5 +1,5 @@
 [package]
-name = "temp_convert"
+name = "temp-convert"
 version = "0.1.0"
 edition = "2024"
 
